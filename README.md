@@ -22,7 +22,7 @@ experience.
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/7cc1cd2a-5d53-4c89-9112-16b66d00557d" alt="Booky screen 7" width="220">{=html}
+
 <img src="https://github.com/mostafafaiz2020-byte/Booky/blob/15fef683ac3db62e55336f42b12b1af73d7b901d/bookia_app-main/Screenshot%202026-10-26%20230825.png?raw=true" alt="Booky additional screenshot" width="220">{=html}
 
 </p>
