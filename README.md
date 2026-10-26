@@ -1,71 +1,76 @@
-Booky 📚
+📚 Booky --- Your Digital Bookshelf
 
-A Flutter bookstore application for browsing books through a clean,
-mobile-friendly interface.
-
-Screenshots
+Discover a clean and convenient way to explore books. Booky is a
+Flutter bookstore app project focused on a simple, modern mobile
+experience.
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/860fa5e9-d556-4258-9f6c-d1e44195e9f0" alt="Booky app screenshot 1" width="220">{=html}
-<img src="https://github.com/user-attachments/assets/1029417d-5b3e-4866-b444-30a303878fba" alt="Booky app screenshot 2" width="220">{=html}
-<img src="https://github.com/user-attachments/assets/ccee184a-a118-4bbc-84c4-c7f4f1f3d466" alt="Booky app screenshot 3" width="220">{=html}
+<img src="https://github.com/user-attachments/assets/860fa5e9-d556-4258-9f6c-d1e44195e9f0" alt="Booky screen 1" width="220">{=html}
+<img src="https://github.com/user-attachments/assets/1029417d-5b3e-4866-b444-30a303878fba" alt="Booky screen 2" width="220">{=html}
+<img src="https://github.com/user-attachments/assets/ccee184a-a118-4bbc-84c4-c7f4f1f3d466" alt="Booky screen 3" width="220">{=html}
 
 </p>
 
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/1be95118-cec0-4824-ad7e-422736ee1081" alt="Booky app screenshot 4" width="220">{=html}
-<img src="https://github.com/user-attachments/assets/2ec4ae01-93aa-42da-9293-bb4346d69eee" alt="Booky app screenshot 5" width="220">{=html}
-<img src="https://github.com/user-attachments/assets/a55b4421-df63-4e63-8b54-3e2da5da95fb" alt="Booky app screenshot 6" width="220">{=html}
-<img src="https://github.com/user-attachments/assets/7cc1cd2a-5d53-4c89-9112-16b66d00557d" alt="Booky app screenshot 7" width="220">{=html}
+<img src="https://github.com/user-attachments/assets/1be95118-cec0-4824-ad7e-422736ee1081" alt="Booky screen 4" width="220">{=html}
+<img src="https://github.com/user-attachments/assets/2ec4ae01-93aa-42da-9293-bb4346d69eee" alt="Booky screen 5" width="220">{=html}
+<img src="https://github.com/user-attachments/assets/a55b4421-df63-4e63-8b54-3e2da5da95fb" alt="Booky screen 6" width="220">{=html}
 
 </p>
 
-About the Project
+<p align="center">
 
-Booky is a mobile bookstore app built with Flutter. This repository
-contains the application's source code and UI screens.
+<img src="https://github.com/user-attachments/assets/7cc1cd2a-5d53-4c89-9112-16b66d00557d" alt="Booky screen 7" width="220">{=html}
+<img src="https://github.com/mostafafaiz2020-byte/Booky/blob/15fef683ac3db62e55336f42b12b1af73d7b901d/bookia_app-main/Screenshot%202026-10-26%20230825.png?raw=true" alt="Booky additional screenshot" width="220">{=html}
 
-Built With
+</p>
 
-Flutter --- cross-platform mobile application framework
+✨ Highlights
 
-Dart --- programming language
+📖 Browse book listings in a mobile-friendly interface.
 
-flutter_screenutil --- responsive sizing and layout
+🧩 Feature-based Flutter project structure.
 
-easy_localization --- localization support
+🌍 Localization support configured for English and Arabic.
 
-Dio --- HTTP requests and API communication
+📱 Responsive layouts with flutter_screenutil.
 
-Getting Started
+🔌 API communication using Dio.
 
-Prerequisites
+🛠️ Built With
 
-Before running the project, make sure you have:
+Technology             Purpose
 
-Flutter SDK installed
+Flutter                Cross-platform app development
+Dart                   Application programming language
+flutter_screenutil   Responsive sizing
+easy_localization    Language and localization support
+Dio                    HTTP requests and API communication
 
-Dart SDK (included with Flutter)
+🚀 Getting Started
+
+Requirements
+
+Flutter SDK
 
 Android Studio or VS Code
 
-An Android emulator or a physical device
+Android emulator or a physical device
 
-Installation
+Setup
 
 Clone the repository:
 
 git clone https://github.com/mostafafaiz2020-byte/Booky.git
 
-Move into the project directory:
+Open the Flutter project folder:
 
 cd Booky/bookia_app-main
 
-If you cloned the repository and the Flutter project files are
-already at the repository root, skip the
-cd Booky/bookia_app-main command.
+If pubspec.yaml is in the repository's root folder, skip the
+previous directory command.
 
 Install dependencies:
 
@@ -75,10 +80,10 @@ Run the app:
 
 flutter run
 
-Project Structure
+🗂️ Project Structure
 
-The Flutter source code is organized by feature and responsibility. For
-example, the home feature separates its presentation UI and data models.
+The app uses a feature-based structure. The home feature includes
+separate areas for data models and presentation widgets.
 
 lib/
 └── features/
@@ -89,19 +94,19 @@ lib/
             └── ui/
                 └── widgets/
 
-Run Checks
+✅ Analyze the Project
 
-To analyze the project for common issues, run:
+Run Flutter's analyzer to check for common code issues:
 
 flutter analyze
 
-Repository
+🔗 Repository
 
-Source code:
+GitHub:
 mostafafaiz2020-byte/Booky
 
 <p align="center">
 
-Made with Flutter 💙
+Built with Flutter 💙
 
 </p>
